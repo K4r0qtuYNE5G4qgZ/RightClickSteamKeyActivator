@@ -7,6 +7,7 @@ Chrome Extension that allows to select/mark a SteamKey and quickly activate it v
 2. Right-Click and select 'Activate Steam Key'
 
 Opens the new Steam Web Key Activator Page and activates the prviously selected Key.
+
 You already need to be logged in on the Steam Web Page!
 
 ## Development
