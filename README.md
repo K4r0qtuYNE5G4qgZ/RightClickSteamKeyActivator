@@ -10,7 +10,7 @@ You already need to be logged in on the Steam Web Page!
 1. Select a Steam Key as Text
 2. Right-Click and select 'Activate Steam Key'
 
-## Development
+## How to Install
 
 1. Clone this repo
 2. Go to chrome extensions [chrome://extensions](chrome://extensions)
