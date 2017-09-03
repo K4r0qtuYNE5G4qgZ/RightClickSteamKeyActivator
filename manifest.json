@@ -4,7 +4,7 @@
 	"manifest_version": 2,
 	"name": "Activate Steam Key from Context Menu",
 	"description": "Use the right-click menu to activate selected steam key",
-	"version": "1.0",
+	"version": "1.1",
 	"permissions": ["contextMenus", "tabs", "http://*/", "https://*/"],
 	"background": {
 		"scripts": ["js/skactivater.js"],
