@@ -12,7 +12,8 @@ You already need to be logged in on the Steam Web Page!
 
 ## How to Install
 
-- https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
+- (public) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
+- (unlisted) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/haodongdjagdcfaojcmmkjpgbcfbnplk
 
 OR
 
