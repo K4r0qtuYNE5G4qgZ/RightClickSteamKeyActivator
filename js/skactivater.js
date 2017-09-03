@@ -1,6 +1,6 @@
 function activatekey(info,tab) {
   chrome.tabs.create({
-    url: "https://store.steampowered.com/account/registerkey?key=" + info.selectionText}, function(tab) {
+    url: "https://store.steampowered.com/account/registerkey?key=" + info.selectionText.replace(/\s/g,'')}, function(tab) {
     chrome.tabs.executeScript(tab.id, {file: 'js/automate.js'});
   });
 };
