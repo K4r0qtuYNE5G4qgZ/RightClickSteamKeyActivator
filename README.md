@@ -1,5 +1,5 @@
 # Right-Click Steam Key Activator
-Chrome Extension that allows to select/mark a SteamKey and quickly activate it via Right-Click Context Menu
+Chrome Extension/Firefox Addon that allows to select/mark a SteamKey and quickly activate it via Right-Click Context Menu
 
 Opens the new Steam Web Key Activator Page and activates the previously selected Key.
 
