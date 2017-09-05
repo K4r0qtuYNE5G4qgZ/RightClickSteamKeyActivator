@@ -12,6 +12,10 @@ You already need to be logged in on the Steam Web Page!
 
 ## How to Install
 
+Firefox
+- (public) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
+
+Chrome
 - (public) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
 - (unlisted) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/haodongdjagdcfaojcmmkjpgbcfbnplk
 
