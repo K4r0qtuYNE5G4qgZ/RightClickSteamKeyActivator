@@ -1,5 +1,5 @@
 # Right-Click Steam Key Activator
-Chrome Extension/Firefox Addon that allows to select/mark a SteamKey and quickly activate it via Right-Click Context Menu
+Chrome/Firefox/Opera Extension that allows to select/mark a SteamKey and quickly activate it via Right-Click Context Menu
 
 Opens the new Steam Web Key Activator Page and activates the previously selected Key.
 
@@ -12,12 +12,15 @@ You already need to be logged in on the Steam Web Page!
 
 ## How to Install
 
+Opera
+- (public v1.2) Awaiting moderation.
+
 Firefox
-- (public) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
+- (public v1.2) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
 
 Chrome
-- (public) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
-- (unlisted) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/haodongdjagdcfaojcmmkjpgbcfbnplk
+- (public v1.1) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
+- (unlisted v1.2) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/haodongdjagdcfaojcmmkjpgbcfbnplk
 
 OR
 
