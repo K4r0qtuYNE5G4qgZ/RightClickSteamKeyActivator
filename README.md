@@ -13,7 +13,7 @@ You already need to be logged in on the Steam Web Page!
 ## How to Install
 
 Opera
-- (public v1.2) Awaiting moderation.
+- (public v1.2) https://addons.opera.com/de/extensions/details/activate-steam-key-from-context-menu/
 
 Firefox
 - (public v1.2) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
