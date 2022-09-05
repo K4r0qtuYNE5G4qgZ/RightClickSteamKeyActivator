@@ -16,7 +16,7 @@ Opera
 - (public v1.2) https://addons.opera.com/de/extensions/details/activate-steam-key-from-context-menu/
 
 Firefox
-- (public v1.2) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
+- (public v1.2.2) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
 
 Chrome
 - (public v1.2.1) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
