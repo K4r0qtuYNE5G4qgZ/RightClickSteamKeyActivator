@@ -19,7 +19,7 @@ Firefox
 - (public v1.2.2) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
 
 Chrome
-- (public v1.2.1) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
+- (public v1.3) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
 - (unlist v1.3) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/haodongdjagdcfaojcmmkjpgbcfbnplk
 
 OR
